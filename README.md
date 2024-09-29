@@ -85,4 +85,6 @@ This was my first Langchain project, and it was an exciting learning journey. I 
 Whether you’d like to collaborate, provide feedback, or contribute to the project, feel free to connect with me or submit a pull request on GitHub. Let’s build something amazing together! 🚀
 
 #Langchain #DataScience #Python #Pandas #AI #MachineLearning #DataEngineering #QnASystem #Automation #FirstProject #OpenSource #Collaboration #BusinessIntelligence #Finance
-
+---
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit) file for details.
