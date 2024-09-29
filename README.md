@@ -71,9 +71,9 @@ python streamlit_app.py
 ## Applications
 - This project can be applied in a variety of fields, including:
 - 🔹 Data analysis and reporting: Instantly query and visualize datasets without manual intervention
-- 🔹 Business intelligence: Empower decision-makers with real-time data updates and automated insights
+- 🔹 Business intelligence: Empower decision-makers with real-time data insights and automated insights
 - 🔹 Research and academia: Simplify data handling for researchers working with large datasets
-- 🔹 Finance: Easily modify and plot financial data to monitor trends and performance
+- 🔹 Finance: Easily query and plot financial data to monitor trends and performance
 ---
 
 ### My experience:
