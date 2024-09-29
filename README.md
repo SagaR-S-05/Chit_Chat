@@ -1,4 +1,4 @@
-# Langchain Q&A System for Pandas Dataframes
+# Chit Chat - A Langchain Q&A System for Pandas Dataframes
 🚀 First Langchain project: A dynamic Q&A system that interacts with Pandas dataframes, allowing users to query, modify, and visualize data in real time. It also integrates web-based searches to augment datasets.
 
 ### 🌐 Live Demo
