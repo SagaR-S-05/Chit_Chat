@@ -61,6 +61,8 @@ source venv/bin/activate  # On Windows, use `venv\\Scripts\\activate`
 pip install -r requirements.txt
 ```
 ---
+Update the api keys
+---
 ### Run the Project
 ``` bash
 python streamlit_app.py
