@@ -18,7 +18,7 @@ https://chitchat-7dkfljdfnsbwlkt34g6lga.streamlit.app
 
 - **Real-time data interaction**: Query and manipulate Pandas dataframes.
 - **Seamless data querying and updates**: Visualize your data with ease.
-- **Custom modifications**: Easily update or modify dataframes as needed.
+- **Automated graph plotting**: based on data queries and much more.
 
 ---
 ## Applications
