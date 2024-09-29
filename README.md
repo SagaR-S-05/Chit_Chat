@@ -3,7 +3,7 @@
 
 ### 🌐 Live Demo
 
-https://lnkd.in/g-aND3dB
+[https://lnkd.in/g-aND3dB](https://chitchat-7dkfljdfnsbwlkt34g6lga.streamlit.app)
 ---
 ### Key Pics
 <img width="1001" alt="Screenshot 2024-09-29 at 8 06 52 PM" src="https://github.com/user-attachments/assets/e8d14e97-e226-4c00-a2a8-3dd3f748a0cd">
