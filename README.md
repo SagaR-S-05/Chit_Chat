@@ -5,6 +5,15 @@
 
 https://chitchat-7dkfljdfnsbwlkt34g6lga.streamlit.app
 ---
+
+### Tech Stack 
+![1_-PlFCd_VBcALKReO3ZaOEg](https://github.com/user-attachments/assets/bdcb7622-dafe-4885-bd97-08f83f380920)
+![images](https://github.com/user-attachments/assets/e019a6b6-a605-4ae6-b171-55382af7651f)
+![download](https://github.com/user-attachments/assets/fdbc8eca-cfd5-420d-b6ae-fec87e6a2d44)
+
+
+---
+
 ### Key Pics
 <img width="1001" alt="Screenshot 2024-09-29 at 8 06 52 PM" src="https://github.com/user-attachments/assets/e8d14e97-e226-4c00-a2a8-3dd3f748a0cd">
 <img width="1347" alt="Screenshot 2024-09-29 at 8 02 50 PM" src="https://github.com/user-attachments/assets/5444b870-939b-4b57-be35-9d05accd2937">
