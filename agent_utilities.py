@@ -32,8 +32,8 @@ def create_agent(df):
             agent_type=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
             handle_parsing_errors=True,
             allow_dangerous_code=True,
-            return_intermediate_steps=True,
-            extra_tools=serch_tools,
+            return_intermediate_steps=True
+
     )
     
     return pandas_df_agent
